@@ -1,50 +1,8 @@
 <div align="center">
-    <img src="public/cutlery.png" alt="Evangadi Menu Logo" width="120"/>
-
-    <br/>
-
-    **<span style="font-size:2em;">Evangadi Menu</span>**
-
-    *A modern, interactive restaurant menu web app built with React and Vite.*
+  <img src="public/cutlery.png" alt="Evangadi Menu Logo" width="90"/>
 </div>
 
+<h1 align="center">🍽️ Evangadi Menu</h1>
+<p align="center"><em>A simple, modern menu app for food lovers.<br>Browse. Enjoy. Repeat.</em></p>
 
-## 🌟 Overview
-Evangadi Menu is a visually appealing and user-friendly web application that allows users to browse, search, and explore a variety of delicious food items. Designed for restaurants, cafes, or food delivery services, this project demonstrates clean UI, reusable components, and modern React best practices.
-
-
-## ✨ Features
-- Beautiful, responsive design
-- Browse a curated list of food items
-- Search and filter menu items
-- Modular React components (Header, FoodItem, etc.)
-- Easy to customize and extend
-
-
-## 🚀 Getting Started
-
-### Prerequisites
-- [Node.js](https://nodejs.org/) (v16 or higher recommended)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
-
-
-## 🗂️ Project Structure
-```
-evangadi-menu/
-├── public/
-│   └── cutlery.png
-├── src/
-│   ├── App.jsx
-│   ├── App.css
-│   ├── main.jsx
-│   ├── assets/
-│   ├── commonResource/
-│   └── components/
-│       ├── Header/
-│       └── FoodItem/
-├── index.html
-├── package.json
-└── vite.config.js
-
-
-	                    Made with ❤️ By Abubeker     
+<p align="center">Made with ❤️ by Abubeker</p>
