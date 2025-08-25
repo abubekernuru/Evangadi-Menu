@@ -1,9 +1,9 @@
 <div align="center">
 	<img src="public/cutlery.png" alt="Evangadi Menu Logo" width="120"/>
   
-	# 🍽️ Evangadi Menu
-  
-	<b>A modern, interactive restaurant menu web app built with React and Vite.</b>
+	 # Evangadi Menu
+
+	A modern, interactive restaurant menu web app built with React and Vite.
 </div>
 
 
@@ -45,7 +45,4 @@ evangadi-menu/
 └── vite.config.js
 
 
-
-<div align="center">
-	<b>Made with ❤️ By Abubeker</b>
-</div>
+	<div align="center">Made with ❤️ By Abubeker</div>
